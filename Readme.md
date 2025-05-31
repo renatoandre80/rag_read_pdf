@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system for querying PDF documents using LangChain, OpenAI, and FAISS. Built with Python and Streamlit.
 
-![Demo]
+# [Demo] ![Image](https://github.com/user-attachments/assets/d552129d-7957-4e77-82bc-b6e12b4228b0)
 
 ## 🚀 Features
 
